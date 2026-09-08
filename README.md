@@ -13,7 +13,7 @@ Password: "Admin@123
 ## Normal User Login
 
 Username : "User1"
-Password : "User@123"
+Password : <Your Password>
 
 ---
 
